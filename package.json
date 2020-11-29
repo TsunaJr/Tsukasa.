@@ -1,5 +1,5 @@
 {
-  "name": "Tsukasa",
+  "name": "Tsukasa.",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TsunaJr/Tsukasa/issues"
+    "url": "https://github.com/TsunaJr/Tsukasa./issues"
   },
-  "homepage": "https://github.com/TsunaJr/Tsukasa#readme"
+  "homepage": "https://github.com/TsunaJr/Tsukasa.#readme"
 }
